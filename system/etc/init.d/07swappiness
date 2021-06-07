@@ -1,0 +1,10 @@
+#!/system/bin/sh
+# Mod By hacking mark
+# Copyright (C) 2021
+
+# script testing Swappiness
+echo "100" > /proc/sys/vm/swappiness
+
+# script testing swappiness
+
+# done

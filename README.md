@@ -3,16 +3,16 @@
 ### RENDY WAHIDIN
 
 # touch improvements
--increased touch super game smoothly not slow
+- increased touch super game smoothly not slow
 
 # VIDEO AND AUDIO TWEAKS IS HERE
--Music Quality Booster Audio Tweaks
+- Music Quality Booster Audio Tweaks
 
 # TWEAK INTERNET
 - fix network data with fast speed
 
 # BATTERY HEMAT
--Long battery life for 2 hours of gaming
+- Long battery life for 2 hours of gaming
 
 # MORE RAM
 - Ram booster for multitasking
